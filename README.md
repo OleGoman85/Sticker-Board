@@ -45,5 +45,8 @@ Derived values are computed with useMemo and are never duplicated in state.
 - npm install
 - npm run dev
 
-![1](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![animal1](https://github.com/OleGoman85/Sticker-Board/blob/main/1.png)
+![animal2](https://github.com/OleGoman85/Sticker-Board/blob/main/2.png)
+![animal3](https://github.com/OleGoman85/Sticker-Board/blob/main/3.png)
+![animal4](https://github.com/OleGoman85/Sticker-Board/blob/main/4.png)
 
